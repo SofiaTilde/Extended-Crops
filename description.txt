@@ -1,0 +1,26 @@
+A mod that adds a whole new way to get items through farming.
+
+
+Planned additions:
+-Seeds, plants, and dusts for:
+	-Mob drops
+	-Some modded ores
+	-Dyes
+	-More potions, potion plants give off potion effects when fullgrown
+	-Some common items (coins etc)
+-Some way too speed up the growing process (fertilizer or similar)
+
+
+To start of craft a seed processor using 10 stone and 5 of each seed type (you can use crimson or corruption seeds). You can then start making seeds, seeds are made from 10 of the respective ore. To make seeds the tier below or higher is required to craft. To upgrade the seed processor you need 10 of the higher tier dust and the processor.
+When you have crafted seeds you can plant it, when it has finished growing you break it to recive more seeds and dust. With the dust you can craft the item at a logical crafting stations (ores at furnace etc).
+
+
+Credit:
+-Example mod (https://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/)
+-B0bGary's Growable ores (Minecraft mod)
+
+
+Version 0.1.3 Upgraded to tModloader v.10, added seeds, plants, and dusts for dyes
+Version 0.1.2 Plants are now more durable, added seeds, plants, and dusts for healing, mana, and restoration potions
+Version 0.1.1 Fixed incorrect names, added variations in drop amounts, added seeds, plants, and dusts for gemstones
+Version 0.1 Released, added seed processors, added seeds, plants, and dusts for ores
