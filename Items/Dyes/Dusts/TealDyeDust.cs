@@ -23,7 +23,7 @@ namespace ExtendedCrops.Items.Dyes.Dusts
 		{
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(this, 10);
-			recipe.AddTile(TileID.TinkeresWorkShops);
+			recipe.AddTile(TileID.DyeVat);
 			recipe.SetResult(1012);
 			recipe.AddRecipe();
 		}
