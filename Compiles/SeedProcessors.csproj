@@ -1,0 +1,99 @@
+    <Compile Include="Tiles\Processors\SeedProcessor.cs" />
+    <Compile Include="Items\Processors\SeedProcessor.cs" />
+    <Compile Include="Items\Processors\SeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\ACopperSeedProcessor.cs" />
+    <Compile Include="Items\Processors\ACopperSeedProcessor.cs" />
+    <Compile Include="Items\Processors\ACopperSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\ATinSeedProcessor.cs" />
+    <Compile Include="Items\Processors\ATinSeedProcessor.cs" />
+    <Compile Include="Items\Processors\ATinSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\BIronSeedProcessor.cs" />
+    <Compile Include="Items\Processors\BIronSeedProcessor.cs" />
+    <Compile Include="Items\Processors\BIronSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\BLeadSeedProcessor.cs" />
+    <Compile Include="Items\Processors\BLeadSeedProcessor.cs" />
+    <Compile Include="Items\Processors\BLeadSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\CSilverSeedProcessor.cs" />
+    <Compile Include="Items\Processors\CSilverSeedProcessor.cs" />
+    <Compile Include="Items\Processors\CSilverSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\CTungstenSeedProcessor.cs" />
+    <Compile Include="Items\Processors\CTungstenSeedProcessor.cs" />
+    <Compile Include="Items\Processors\CTungstenSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\DGoldSeedProcessor.cs" />
+    <Compile Include="Items\Processors\DGoldSeedProcessor.cs" />
+    <Compile Include="Items\Processors\DGoldSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\DPlatinumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\DPlatinumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\DPlatinumSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\EMeteoriteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\EMeteoriteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\EMeteoriteSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\FDemoniteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\FDemoniteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\FDemoniteSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\FCrimtaneSeedProcessor.cs" />
+    <Compile Include="Items\Processors\FCrimtaneSeedProcessor.cs" />
+    <Compile Include="Items\Processors\FCrimtaneSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\GObsidianSeedProcessor.cs" />
+    <Compile Include="Items\Processors\GObsidianSeedProcessor.cs" />
+    <Compile Include="Items\Processors\GObsidianSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\HHellstoneSeedProcessor.cs" />
+    <Compile Include="Items\Processors\HHellstoneSeedProcessor.cs" />
+    <Compile Include="Items\Processors\HHellstoneSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\ICobaltSeedProcessor.cs" />
+    <Compile Include="Items\Processors\ICobaltSeedProcessor.cs" />
+    <Compile Include="Items\Processors\ICobaltSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\IPalladiumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\IPalladiumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\IPalladiumSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\JMythrilSeedProcessor.cs" />
+    <Compile Include="Items\Processors\JMythrilSeedProcessor.cs" />
+    <Compile Include="Items\Processors\JMythrilSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\JOrichalcumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\JOrichalcumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\JOrichalcumSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\KAdamantiteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\KAdamantiteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\KAdamantiteSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\KTitaniumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\KTitaniumSeedProcessor.cs" />
+    <Compile Include="Items\Processors\KTitaniumSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\LHallowedSeedProcessor.cs" />
+    <Compile Include="Items\Processors\LHallowedSeedProcessor.cs" />
+    <Compile Include="Items\Processors\LHallowedSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\MChlorophyteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\MChlorophyteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\MChlorophyteSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\NSpectreSeedProcessor.cs" />
+    <Compile Include="Items\Processors\NSpectreSeedProcessor.cs" />
+    <Compile Include="Items\Processors\NSpectreSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\OShroomiteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\OShroomiteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\OShroomiteSeedProcessor.png" />
+
+    <Compile Include="Tiles\Processors\PLuminiteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\PLuminiteSeedProcessor.cs" />
+    <Compile Include="Items\Processors\PLuminiteSeedProcessor.png" />

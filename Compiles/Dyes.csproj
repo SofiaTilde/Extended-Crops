@@ -1,0 +1,89 @@
+    <Compile Include="Items\Dyes\Dusts\RedDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\RedDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\RedDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\RedDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\RedDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\OrangeDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\OrangeDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\OrangeDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\OrangeDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\OrangeDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\YellowDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\YellowDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\YellowDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\YellowDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\YellowDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\LimeDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\LimeDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\LimeDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\LimeDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\LimeDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\GreenDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\GreenDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\GreenDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\GreenDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\GreenDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\TealDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\TealDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\TealDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\TealDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\TealDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\CyanDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\CyanDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\CyanDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\CyanDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\CyanDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\SkyBlueDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\SkyBlueDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\SkyBlueDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\SkyBlueDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\SkyBlueDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\BlueDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\BlueDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\BlueDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\BlueDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\BlueDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\PurpleDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\PurpleDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\PurpleDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\PurpleDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\PurpleDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\VioletDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\VioletDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\VioletDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\VioletDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\VioletDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\PinkDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\PinkDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\PinkDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\PinkDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\PinkDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\BlackDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\BlackDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\BlackDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\BlackDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\BlackDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\BrownDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\BrownDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\BrownDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\BrownDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\BrownDyePlant.cs" />
+
+    <Compile Include="Items\Dyes\Dusts\SilverDyeDust.cs" />
+    <Compile Include="Items\Dyes\Dusts\SilverDyeDust.png" />
+    <Compile Include="Items\Dyes\Seeds\SilverDyeSeeds.cs" />
+    <Compile Include="Items\Dyes\Seeds\SilverDyeSeeds.png" />
+    <Compile Include="Tiles\Dyes\SilverDyePlant.cs" />

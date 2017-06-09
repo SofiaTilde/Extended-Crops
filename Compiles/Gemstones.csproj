@@ -1,0 +1,39 @@
+    <Compile Include="Items\Gemstones\Dusts\AmberDust.cs" />
+    <Compile Include="Items\Gemstones\Dusts\RubyDust.cs" />
+    <Compile Include="Items\Gemstones\Dusts\EmeraldDust.cs" />
+    <Compile Include="Items\Gemstones\Dusts\AmethystDust.cs" />
+    <Compile Include="Items\Gemstones\Dusts\SapphireDust.cs" />
+    <Compile Include="Items\Gemstones\Dusts\DiamondDust.cs" />
+    <Compile Include="Items\Gemstones\Dusts\TopazDust.cs" />
+
+    <Compile Include="Items\Gemstones\Dusts\AmberDust.png" />
+    <Compile Include="Items\Gemstones\Dusts\RubyDust.png" />
+    <Compile Include="Items\Gemstones\Dusts\EmeraldDust.png" />
+    <Compile Include="Items\Gemstones\Dusts\AmethystDust.png" />
+    <Compile Include="Items\Gemstones\Dusts\SapphireDust.png" />
+    <Compile Include="Items\Gemstones\Dusts\DiamondDust.png" />
+    <Compile Include="Items\Gemstones\Dusts\TopazDust.png" />
+
+    <Compile Include="Items\Gemstones\Seeds\AmberSeeds.cs" />
+    <Compile Include="Items\Gemstones\Seeds\RubySeeds.cs" />
+    <Compile Include="Items\Gemstones\Seeds\EmeraldSeeds.cs" />
+    <Compile Include="Items\Gemstones\Seeds\AmethystSeeds.cs" />
+    <Compile Include="Items\Gemstones\Seeds\SapphireSeeds.cs" />
+    <Compile Include="Items\Gemstones\Seeds\DiamondSeeds.cs" />
+    <Compile Include="Items\Gemstones\Seeds\TopazSeeds.cs" />
+
+    <Compile Include="Items\Gemstones\Seeds\AmberSeeds.png" />
+    <Compile Include="Items\Gemstones\Seeds\RubySeeds.png" />
+    <Compile Include="Items\Gemstones\Seeds\EmeraldSeeds.png" />
+    <Compile Include="Items\Gemstones\Seeds\AmethystSeeds.png" />
+    <Compile Include="Items\Gemstones\Seeds\SapphireSeeds.png" />
+    <Compile Include="Items\Gemstones\Seeds\DiamondSeeds.png" />
+    <Compile Include="Items\Gemstones\Seeds\TopazSeeds.png" />
+
+    <Compile Include="Tiles\Gemstones\AmberPlant.cs" />
+    <Compile Include="Tiles\Gemstones\RubyPlant.cs" />
+    <Compile Include="Tiles\Gemstones\EmeraldPlant.cs" />
+    <Compile Include="Tiles\Gemstones\AmethystPlant.cs" />
+    <Compile Include="Tiles\Gemstones\SapphirePlant.cs" />
+    <Compile Include="Tiles\Gemstones\DiamondPlant.cs" />
+    <Compile Include="Tiles\Gemstones\TopazPlant.cs" />

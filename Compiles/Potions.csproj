@@ -1,0 +1,65 @@
+    <Compile Include="Items\Potions\Restoration\Dusts\LesserHealingDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\LesserHealingDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\LesserHealingSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\LesserHealingSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\LesserHealingPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\HealingDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\HealingDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\HealingSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\HealingSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\HealingPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\GreaterHealingDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\GreaterHealingDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\GreaterHealingSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\GreaterHealingSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\GreaterHealingPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\SuperHealingDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\SuperHealingDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\SuperHealingSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\SuperHealingSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\SuperHealingPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\LesserManaDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\LesserManaDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\LesserManaSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\LesserManaSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\LesserManaPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\ManaDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\ManaDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\ManaSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\ManaSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\ManaPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\GreaterManaDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\GreaterManaDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\GreaterManaSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\GreaterManaSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\GreaterManaPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\SuperManaDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\SuperManaDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\SuperManaSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\SuperManaSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\SuperManaPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\LesserRestorationDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\LesserRestorationDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\LesserRestorationSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\LesserRestorationSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\LesserRestorationPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\RestorationDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\RestorationDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\RestorationSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\RestorationSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\RestorationPlant.cs" />
+
+    <Compile Include="Items\Potions\Restoration\Dusts\StrangeBrewDust.cs" />
+    <Compile Include="Items\Potions\Restoration\Dusts\StrangeBrewDust.png" />
+    <Compile Include="Items\Potions\Restoration\Seeds\StrangeBrewSeeds.cs" />
+    <Compile Include="Items\Potions\Restoration\Seeds\StrangeBrewSeeds.png" />
+    <Compile Include="Tiles\Potions\Restoration\StrangeBrewPlant.cs" />

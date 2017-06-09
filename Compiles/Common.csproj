@@ -1,0 +1,23 @@
+    <Compile Include="Items\Common\Dusts\CopperCoinDust.cs" />
+    <Compile Include="Items\Common\Dusts\CopperCoinDust.png" />
+    <Compile Include="Items\Common\Seeds\CopperCoinSeeds.cs" />
+    <Compile Include="Items\Common\Seeds\CopperCoinSeeds.png" />
+    <Compile Include="Tiles\Common\CopperCoinPlant.cs" />
+
+    <Compile Include="Items\Common\Dusts\SilverCoinDust.cs" />
+    <Compile Include="Items\Common\Dusts\SilverCoinDust.png" />
+    <Compile Include="Items\Common\Seeds\SilverCoinSeeds.cs" />
+    <Compile Include="Items\Common\Seeds\SilverCoinSeeds.png" />
+    <Compile Include="Tiles\Common\SilverCoinPlant.cs" />
+
+    <Compile Include="Items\Common\Dusts\GoldCoinDust.cs" />
+    <Compile Include="Items\Common\Dusts\GoldCoinDust.png" />
+    <Compile Include="Items\Common\Seeds\GoldCoinSeeds.cs" />
+    <Compile Include="Items\Common\Seeds\GoldCoinSeeds.png" />
+    <Compile Include="Tiles\Common\GoldCoinPlant.cs" />
+
+    <Compile Include="Items\Common\Dusts\PlatinumCoinDust.cs" />
+    <Compile Include="Items\Common\Dusts\PlatinumCoinDust.png" />
+    <Compile Include="Items\Common\Seeds\PlatinumCoinSeeds.cs" />
+    <Compile Include="Items\Common\Seeds\PlatinumCoinSeeds.png" />
+    <Compile Include="Tiles\Common\PlatinumCoinPlant.cs" />
