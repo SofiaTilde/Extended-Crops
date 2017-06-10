@@ -18,7 +18,9 @@ namespace ExtendedCrops.Tiles.Processors
 			TileObjectData.newTile.CopyFrom(TileObjectData.Style2x1);
 			TileObjectData.newTile.CoordinateHeights = new int[]{ 18 };
 			TileObjectData.addTile(Type);
-			AddMapEntry(new Color(200, 200, 200), "Tin Seed Processor");
+			ModTranslation name = CreateMapEntryName();
+			name.SetDefault("Tin Seed Processor");
+			AddMapEntry(new Color(200, 200, 200), name);
 			disableSmartCursor = true;
 		}
 
