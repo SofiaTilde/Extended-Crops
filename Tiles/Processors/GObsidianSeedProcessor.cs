@@ -18,7 +18,9 @@ namespace ExtendedCrops.Tiles.Processors
 			TileObjectData.newTile.CopyFrom(TileObjectData.Style2x1);
 			TileObjectData.newTile.CoordinateHeights = new int[]{ 18 };
 			TileObjectData.addTile(Type);
-			AddMapEntry(new Color(200, 200, 200), "Obsidian Seed Processor");
+			ModTranslation name = CreateMapEntryName();
+			name.SetDefault("Obsidian Seed Processor");
+			AddMapEntry(new Color(200, 200, 200), name);
 			disableSmartCursor = true;
 		}
 
